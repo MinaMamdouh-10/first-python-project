@@ -1,2 +1,2 @@
-# first-python-project
-Learning Python to become an AI Engineer.
+# Learning Python
+Learning Python to become an AI Engineer in the future.
